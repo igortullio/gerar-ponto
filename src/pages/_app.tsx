@@ -17,9 +17,9 @@ function App({ Component, pageProps }: AppProps) {
       <NextSeo
         title="Gerar ponto - Sua folha de ponto mensal"
         description="Gere sua folha de ponto mensal com horários aleatórios dentro das suas especificações."
-        canonical="https://reactavancado.com.br/"
+        canonical="https://igortullio-gerarponto.netlify.app"
         openGraph={{
-          url: 'https://reactavancado.com.br/',
+          url: 'https://igortullio-gerarponto.netlify.app',
           title: 'Gerar ponto - Sua folha de ponto mensal',
           description: 'Gere sua folha de ponto mensal com horários aleatórios dentro das suas especificações.',
           site_name: 'Gerar ponto',
